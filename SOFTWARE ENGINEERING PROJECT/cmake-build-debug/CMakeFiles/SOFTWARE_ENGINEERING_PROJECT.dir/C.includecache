@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/count_characters.c
+strings.h
+-
+ctype.h
+-
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/count_characters.h
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/find_anagrams.c
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+stdio.h
+-
+stdbool.h
+-
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/find_anagrams.h
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/half_anagrams.c
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+ctype.h
+-
+string.h
+-
+stdbool.h
+-
+half_anagrams.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/half_anagrams.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/half_anagrams.h
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+stdbool.h
+-
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/main.c
+read_input.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/read_input.h
+quicksort.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/quicksort.h
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+count_characters.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/count_characters.h
+find_anagrams.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/find_anagrams.h
+half_anagrams.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/half_anagrams.h
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/quicksort.c
+quicksort.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/quicksort.h
+stdio.h
+-
+strings.h
+-
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+ctype.h
+-
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/quicksort.h
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/read_input.c
+read_input.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/read_input.h
+stdio.h
+-
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/read_input.h
+sizes.h
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+
+/Users/jemimaadjenughure/Desktop/SOFTWARE ENGINEERING PROJECT/sizes.h
+
